@@ -67,3 +67,13 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # Cosmonio_project
+
+In this project I have made the first choice of using React, the only reason I will be using this technology is the difference in experience that I have between React, Angular and Vue.Js, since I already have created a project and worked enough with React to be more at ease than learning a technology for a challenge. 
+
+The second choice that I did, is the design, I have chosen to go with two colors and stick to that, as boring as it may sound, I have chosen a black background and a light blue writing color for the contrast. I have decided to make a design based on accessibility features, and wanted to create a design that would be easy on the eyes for everyone, including people with accessibility restraints.
+
+For the grid pattern and the image selection, I have done as requested.
+
+Sadly I was not able to implement the search bar as well as I wanted, and I was stuck with small problems here and there.
+
+Thank you for this opportunity to show some of my skills, I hope that whoever sees this design will be pleased by it.
